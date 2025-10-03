@@ -8,7 +8,7 @@ export default function Home() {
         {/* Header */}
         <header className="text-center sm:text-left">
           <h1 className="text-5xl font-extrabold text-gray-900 dark:text-gray-100 mb-2">
-            Hi, I'm Sai Harshitha Seshadri 👋
+            Hi, I&apos;m Sai Harshitha Seshadri 👋
           </h1>
           <p className="text-lg text-gray-700 dark:text-gray-300 max-w-xl mx-auto sm:mx-0">
             I am a Web3 developer focusing on Ethereum dApps, decentralized
